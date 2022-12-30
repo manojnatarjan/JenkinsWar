@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>THIS IS MY DEMO APPLICATION</h2>
+<h2>first demo page</h2>
 </body>
 </html>
